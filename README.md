@@ -1,6 +1,9 @@
 ### Hi! My name is Pippi de Bree and Welcome to my GitHub! 
 
-#### I am a recent Graduate of BrainStation's Data Science Bootcamp (check out my Capstone Project on comparing recommendation systems [here](https://github.com/pdebree/RecommendationExplorationCapstone)!) I am currently looking to find a job as a Data Scientist or Analyst in London or the US. Feel free to reach out on my [LinkedIN](https://www.linkedin.com/in/pippi-de-bree/)! Thank you!
+#### I am a recent Graduate of BrainStation's Data Science Bootcamp (check out my Capstone Project on comparing recommendation systems [here](https://github.com/pdebree/RecommendationExplorationCapstone)!) 
+
+
+#### I am currently looking to find a job as a Data Scientist or Analyst in London or the US. Feel free to reach out on my [LinkedIN](https://www.linkedin.com/in/pippi-de-bree/)! Thank you!
 
 <!--
 **pdebree/pdebree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
