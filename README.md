@@ -1,4 +1,4 @@
-### Hi! My name is Pippi and Welcome to my GitHub! 
+### Hi! My name is Pippi! 
 
 #### I am a recent graduate of BrainStation's Data Science Bootcamp looking to find work as a Data Scientist or Analyst in London or the US. Recently, I completed my [Capstone Project](https://github.com/pdebree/RecommendationExplorationCapstone) comparing recommendation system suitability and am now looking into the importance of vocal styles in song recommendation. 
 
