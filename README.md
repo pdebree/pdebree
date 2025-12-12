@@ -1,6 +1,8 @@
 ### Hi! My name is Pippi! 
 
 
+I'm a Master's Student in Applied Statistics for Social Science Research at New York University. 
+
 <!--
 **pdebree/pdebree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
